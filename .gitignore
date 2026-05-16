@@ -1,0 +1,6 @@
+.DS_Store
+uploads/
+backend/uploads/
+node_modules/
+target/
+.idea/
